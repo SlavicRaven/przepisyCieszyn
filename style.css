@@ -3,9 +3,10 @@ display: block;}
 body {
 color: #666666;
 background-color: #f9f8f6;
- background-image: url("http://1.bp.blogspot.com/-No4ZNyf7hno/TtY7RWlZURI/AAAAAAAABCo/Y-_bP9hCQ4Y/s1600/blue+sea.jpg");
+ background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/leavesofgrass_1920x1234.jpg");
 /*background-position: center; */
-font-family: Georgia, Times, serif;
+font-family: 'Chunkfive', serif;
+font-size: 20px;
 line-height: 1.4em;
 margin: 0px;}
 .wrapper {
@@ -15,7 +16,7 @@ border: 2px solid #000000;
 background-color: #ffffff;}
 header {
 height: 200px;
-background-image: url("http://cdn.pcwallart.com/images/plain-blue-background-wallpaper-3.jpg");}
+background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/leavesofgrass_1920x1234.jpg");}
 h1 {
 text-indent: 99px;
 width: 940px;
