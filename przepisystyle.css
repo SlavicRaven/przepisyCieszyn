@@ -1,0 +1,35 @@
+header, section, footer, nav, article, figure, figcaption {
+display: block;}
+body {
+color: #666666;
+background-color: #f9f8f6;
+ background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/leavesofgrass_1920x1234.jpg");
+/*background-position: center; */
+font-family: 'Chunkfive', serif;
+font-size: 20px;
+line-height: 1.4em;
+margin: 20px;}
+.wrapper {
+width: 940px;
+margin: auto;
+border: 2px solid #000000;
+background-color: #ffffff;}
+header {
+height: 200px;
+background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/leavesofgrass_1920x1234.jpg");}
+h1 {
+text-indent: 99px;
+width: 940px;
+height: 130px;
+margin: auto;
+color: #cb2c4f;}
+nav, footer {
+color: #cccccc;
+background-color: #aeaca8;
+height: 25px;}
+section.courses {
+width: 659px;
+border-right: 1px solid #eeeeee;}
+footer {
+font-size: 80%;
+padding: 7px 0px 0px 20px;}
