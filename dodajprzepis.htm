@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dodaj przepis</title>
+<meta charset="UTF-8">
+<link href="registerstyle.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<form action="http://www.ToMySom.com/odbierz.py" method="get">
+<fieldset id="Przepis">
+<legend>
+Szczegoly przepisu
+</legend>
+<p>
+<label>
+Link do zdjecia:
+<input type="text" name="name" size="30" maxlength="72">
+</label>
+</p>
+<p>
+<label for="comments">
+SKLADNIKI:
+</label>
+<br />
+<textarea rows="6" cols="40" id="skladniki">
+</textarea>
+</p>
+</fieldset>
+<br />
+<fieldset>
+<p>
+<label for="comments">
+PRZYGOTOWANIE:
+</label>
+<br />
+<textarea rows="8" cols="40" id="przygotowanie">
+</textarea>
+</p>
+<p>
+<input type="submit" value="Przeslij informacje" />
+<input type="reset" value="Wyczysc dane" />
+</p>
+</fieldset>
+</form>
+</body>
+</html>
