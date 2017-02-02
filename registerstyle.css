@@ -1,4 +1,16 @@
-﻿fieldset#konto {
+﻿body {
+color: #666666;
+background-color: #f9f8f6;
+ background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/leavesofgrass_1920x1234.jpg");
+/*background-position: center; */
+font-family: 'Chunkfive', serif;
+font-size: 20px;
+line-height: 1.4em;
+margin: 0px;}
+
+
+
+fieldset#konto {
    width: 350px;
    border: 1px solid #dcdcdc;
    border-radius: 10px;
